@@ -1,0 +1,54 @@
+
+   [{
+      "name": "Abiodun Oke",
+      "department": "Computer Science",
+      "address": "2, Sarah Jones Avenue",
+      "state": "Califonia"
+   },{
+      "name": "John Doe",
+      "department": "Mechanical Engineering",
+      "address": "456, North way, building 16",
+      "state": "New York"
+   },{
+      "name": "Stephen Hawkins",
+      "department": "Computer Science",
+      "address": "245N Allison Avenue",
+      "state": "Los Angeles"
+   },{
+      "name": "Lewa Stephen",
+      "department": "Business Administration",
+      "address": "23 -34 John Silly Road",
+      "state": "Texas"
+   },{
+      "name": "Bukola Oke",
+      "department": "Marketing",
+      "address": "345 Long Bull Avenue",
+      "state": "Florida"
+   },{
+      "name": "Joshua Walls",
+      "department": "Nursing",
+      "address": "84 Lakeview Lane, Stillwater",
+      "state": "Alabama"
+   },{
+      "name": "Larry Page",
+      "department": "Computer Science",
+      "address": "9027 New Saddle Ave. Chandler",
+      "state": "Alaska"
+   },{
+      "name": "Lampard Larsy",
+      "department": "Civil Engineering",
+      "address": "7521 Hanover St. Lynn",
+      "state": "Arizona"
+   },{
+      "name": "Mick Wemp",
+      "department": "Computer Enginnering",
+      "address": "9027 New Saddle Ave. Chandler",
+      "state": "Phoenix"
+   },{
+      "name": "Wales Bareth",
+      "department": "Office Technology Management",
+      "address": "1234-384-456",
+      "state": "Birmingham"
+   }]
+
+
